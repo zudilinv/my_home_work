@@ -1,0 +1,49 @@
+.friendMessage {
+margin-left: 40px;
+}
+
+.friendImageAndText {
+    width: 575px;
+    height: 77px;
+    display: flex;
+    flex-direction: row;
+}
+
+.friendImageAndText img {
+    width: 48px;
+    height: 48px;
+}
+
+.friendText {
+    max-width: 527px;
+    height: 60px;
+    background-color: dodgerblue;
+    border-radius: 10px 10px 10px 0px;
+    margin-left: 10px;
+}
+
+.friendText:after {
+
+}
+
+.friendName {
+    display: flex;
+    flex-direction: row;
+    margin-right: 10px;
+    color: white;
+    margin-left: 10px;
+}
+
+.friendMessageText {
+    width: 489px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: normal;
+    color: white;
+    margin: 10px;
+
+}
+
+.friendTime {
+
+}
